@@ -1,4 +1,6 @@
-# Informatica-Medica---TP4---BBDD, SQL  y  Manejo de Versiones
+# Informatica-Medica
+
+# TP4---BBDD, SQL  y  Manejo de Versiones
 
 
 Ignacio Bernasconi — 63348
